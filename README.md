@@ -1,6 +1,6 @@
 # Lawnstrings-Server
 
-This is an example implementation of Lawnstrings server for PvZ2: Chinese Version
+This is an example implementation of Lawnstrings Server for PvZ2: Chinese Version
 
 Lawnstrings file obtained from the server overrides the one found in **dynamic.rsb.smf**
 
