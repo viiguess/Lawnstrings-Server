@@ -12,4 +12,4 @@ I recommend to use [Sen](https://github.com/Haruma-VN/Sen) by [Haruma](https://g
 
 [pvz2_l.txt](https://viiguess.github.io/Lawnstrings-Server/pvz2_l.txt) - Lawnstrings themselves
 
-You check both files in readable format at [Plain Data Example](https://github.com/viiguess/Lawnstrings-Server/tree/main/Plain%20Data%20Example)
+You can check both files in readable format at [Plain Data Example](https://github.com/viiguess/Lawnstrings-Server/tree/main/Plain%20Data%20Example)
