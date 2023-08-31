@@ -2,7 +2,7 @@
 
 This is an example implementation of Lawnstrings Server for PvZ2: Chinese Version
 
-Lawnstrings file obtained from the server overrides the one found in **dynamic.rsb.smf**
+Lawnstrings file obtained from the server overrides the one found in **dynamic.rsb.smf**/**config.rsb**
 
 Both files contain Base64 string which when being decoded turns into Encrypted RTON file. After decrypting the RTON file you will get the data which is using 32-bit PopCap Zlib. After uncompressing the data - you will get the plain text file.
 
