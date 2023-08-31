@@ -10,6 +10,6 @@ I recommend to use [Sen](https://github.com/Haruma-VN/Sen) by [Haruma](https://g
 
 [file_list.txt](https://viiguess.github.io/Lawnstrings-Server/file_list.txt) - contains the Lawnstrings file name and MD5 Hash of it.
 
-[pvz2_l.txt](https://viiguess.github.io/Lawnstrings-Server/pvz2_l.txt) - Lawnstrings themselves
+[pvz2_l.txt](https://viiguess.github.io/Lawnstrings-Server/pvz2_l.txt) - Lawnstrings file itself
 
 You can check both files in readable format at [Plain Data Example](https://github.com/viiguess/Lawnstrings-Server/tree/main/Plain%20Data%20Example)
